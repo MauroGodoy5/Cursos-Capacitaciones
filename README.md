@@ -1,5 +1,6 @@
-# Cursos-Capacitaciones
-En este repositorio estare subiendo todos aquellos cursos que fui realizando en udemy.
+## 🎓 Cursos y Capacitaciones
+
+En este repositorio iré subiendo los proyectos y materiales desarrollados a lo largo de los distintos cursos que voy realizando en Udemy, abarcando diversas temáticas relacionadas con el desarrollo y la tecnología.
 
 
 ## 📚 Curso: Creación de API REST con .NET, SQL Server y JWT
